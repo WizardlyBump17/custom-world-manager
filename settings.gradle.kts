@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "untitled"
+rootProject.name = "custom-world-manager"
